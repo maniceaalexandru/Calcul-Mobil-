@@ -4,4 +4,9 @@
     <string name="button_second">Reply</string>
     <string name="editText_second">Enter Your Reply Here</string>
     <string name="text_header_reply">Reply Received</string>
+    <string name="droid_dessert">Droid Dessert</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">Donuts are glazed and sprinkled with candy.</string>
+    <string name="todo2">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="todo3">FroYo is premium self-serve frozen yogurt.</string>
 </resources>
