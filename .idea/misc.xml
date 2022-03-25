@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Alexandru Manicea/Facultate/TwoActiviteslaboratorul2/app/src/main/res/drawable-anydpi/ic_shopping_cart.xml" value="0.1" />
         <entry key="..\:/Alexandru Manicea/Facultate/TwoActiviteslaboratorul2/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Alexandru Manicea/Facultate/TwoActiviteslaboratorul2/app/src/main/res/layout/activity_order.xml" value="0.14722222222222223" />
         <entry key="..\:/Alexandru Manicea/Facultate/TwoActiviteslaboratorul2/app/src/main/res/layout/activity_second.xml" value="0.2" />
       </map>
     </option>
